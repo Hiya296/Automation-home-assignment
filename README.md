@@ -17,8 +17,8 @@ using Python.
 > **Create scenarios for tests**
 >> What I wish to test and how to do it
 >> 
-> **Search for anything that might cause failure**
->> Don't forget to insert it to the tests
+> **Try to get the data and image for each drone**
+>> Each drone have it's own data and image. This repo will show it.
 >> 
 > **Use any assist you can**
 >> It's not shame to ask for help and use any tool for more knowledge.
